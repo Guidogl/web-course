@@ -1,0 +1,82 @@
+html {
+    font-family: 'News Cycle', sans-serif;
+    margin: 0 70px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    color: #333;
+    padding: 20px;
+}
+
+header h1 {
+    display: flex;
+    margin: 0;
+}
+
+/* -- logo design start -- */
+.logo-darker {
+    padding: 2px;
+    background-color: #333;
+    color: #fff;
+}
+
+.logo-lighter {
+    padding: 2px;
+    background-color: #555;
+    color: #fff;
+}
+
+/* -- logo design end -- */
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+header nav ul li a:hover {
+    color: #FB1417;
+}
+
+.main-article {
+    width: 100%;
+    height: 500px;
+}
+
+.main-article-details {
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    background-image: url("assets/space.jpg");
+    background-color: #cccccc;
+    height: 100%;
+    margin: 20px;
+}
+
+.main-article-headline {
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+}
+
+.main-article-summary {
+    color: #fff;
+    padding: 0 20px 20px 20px;
+    margin: 0;
+    width: 30%;
+}
