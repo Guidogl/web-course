@@ -1,6 +1,12 @@
 html {
     font-family: 'News Cycle', sans-serif;
     margin: 0 70px;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -79,4 +85,102 @@ header nav ul li a:hover {
     padding: 0 20px 20px 20px;
     margin: 0;
     width: 30%;
+}
+
+.articles {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.left-col {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.left-col-articles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.article-latest {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    width: 40%;
+}
+
+.article-latest-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-col {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.article-breaking {
+    display: flex;
+    margin: 40px 0;
+    width: 100%;
+}
+
+.article-breaking-image {
+    width: 30%;
+    object-fit: contain;
+}
+
+.article-breaking-main{
+    width: 70%;
+    margin: 0 20px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #555;
+    color: #fff;
+    padding: 20px;
+    font-size: large;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.categories {
+    width: 30%;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    margin: 40px 80px;
+}
+
+.categories ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.categories a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.about {
+    /* width: 70%; */
+    margin: 40px;
+}
+
+.about-title {
+    margin-bottom: 15px;
 }
