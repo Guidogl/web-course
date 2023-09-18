@@ -1,7 +1,7 @@
-export const getArticles = async () => {
+export const getArticles = async (url) => {
     /* Article text is generated using chatGPT */
     /* Images are from Unsplash */
-    const response = await fetch('articles/articles.json')
+    const response = await fetch(url)
         .then(response => response.json())
         .then(data => {
             return data;

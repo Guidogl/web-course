@@ -133,7 +133,7 @@ header nav ul li a:hover {
     object-fit: contain;
 }
 
-.article-breaking-main{
+.article-breaking-main {
     width: 70%;
     margin: 0 20px;
 }
@@ -183,4 +183,29 @@ header nav ul li a:hover {
 
 .about-title {
     margin-bottom: 15px;
+}
+
+.page-headline {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    margin: 40px 0;
+}
+
+.page-articles {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.article-section {
+    width: 70%;
+    margin-bottom: 30px;
+}
+
+.article-igm {
+    width: 100%;
+    object-fit: contain;
 }
