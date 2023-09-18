@@ -47,7 +47,6 @@ async function startApplication() {
 
             articleElement.appendChild(articleImage);
             articleElement.appendChild(articleMainDetails);
-            // articleElement.appendChild(articleDate);
             articleElement.appendChild(articleText);
 
             latestNews.appendChild(articleElement);
@@ -80,19 +79,8 @@ async function startApplication() {
 
             articleElement.appendChild(articleImage);
             articleElement.appendChild(articleMainDetails);
-            // articleElement.appendChild(articleDate);
-
             breakingNews.appendChild(articleElement);
         });
-
-    // const greetingElement = document.getElementById('greeting');
-
-    // // Call helper function to get a greeting message  
-    // const greeting = greet();
-
-    // // Update the DOM with the greeting message  
-    // greetingElement.textContent = greeting;
 }
 
-
-document.addEventListener('DOMContentLoaded', startApplication);  
+document.addEventListener('DOMContentLoaded', startApplication);
