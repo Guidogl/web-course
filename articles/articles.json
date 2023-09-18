@@ -4,7 +4,7 @@
             "title": "Breaking News: Earthquake Hits City",
             "category": "News",
             "description": "A powerful earthquake shook the city early this morning, causing widespread damage and panic among residents.",
-            "image": "/assets/pedro-lastra-Nyvq2juw4_o-unsplash.jpg",
+            "image": "assets/pedro-lastra-Nyvq2juw4_o-unsplash.jpg",
             "author": "John Doe",
             "date": "2021-10-15"
         },
@@ -12,7 +12,7 @@
             "title": "Political Scandal Unveiled",
             "category": "Politics",
             "description": "A major political scandal has been exposed, revealing corruption and unethical practices within the government.",
-            "image": "/assets/omid-armin-AGRtDoZlpYw-unsplash.jpg",
+            "image": "assets/omid-armin-AGRtDoZlpYw-unsplash.jpg",
             "author": "Jane Smith",
             "date": "2021-10-14"
         },
@@ -20,7 +20,7 @@
             "title": "Economic Growth Continues to Soar",
             "category": "Economy",
             "description": "The country's economy shows strong signs of growth, with record-breaking numbers in various sectors and industries.",
-            "image": "/assets/max-brown-yPbHMWJTTOU-unsplash.jpg",
+            "image": "assets/max-brown-yPbHMWJTTOU-unsplash.jpg",
             "author": "James Johnson",
             "date": "2021-10-13"
         },
@@ -28,7 +28,7 @@
             "title": "New Technological Breakthrough Announced",
             "category": "Technology",
             "description": "A groundbreaking technology has been unveiled, promising to revolutionize the way we live and work in the future.",
-            "image": "/assets/markus-spiske-716hHkjvzsc-unsplash.jpg",
+            "image": "assets/markus-spiske-716hHkjvzsc-unsplash.jpg",
             "author": "Sarah Williams",
             "date": "2021-10-12"
         },
@@ -36,7 +36,7 @@
             "title": "Traffic Congestion Reaches All-Time High",
             "category": "News",
             "description": "The city experiences severe traffic congestion, causing major delays and frustration for commuters.",
-            "image": "/assets/mana5280-0UB2naS41S0-unsplash.jpg",
+            "image": "assets/mana5280-0UB2naS41S0-unsplash.jpg",
             "author": "John Doe",
             "date": "2021-10-11"
         },
@@ -44,7 +44,7 @@
             "title": "Government Implements New Policies",
             "category": "Politics",
             "description": "The government introduces a series of new policies aimed at improving public welfare and addressing social issues.",
-            "image": "/assets/lukas-blazek-UAvYasdkzq8-unsplash.jpg",
+            "image": "assets/lukas-blazek-UAvYasdkzq8-unsplash.jpg",
             "author": "Jane Smith",
             "date": "2021-10-10"
         },
@@ -52,7 +52,7 @@
             "title": "Stock Market Faces Volatility",
             "category": "Economy",
             "description": "The stock market experiences high levels of volatility as investors react to changing economic conditions.",
-            "image": "/assets/katie-moum-o0kbc907i20-unsplash.jpg",
+            "image": "assets/katie-moum-o0kbc907i20-unsplash.jpg",
             "author": "James Johnson",
             "date": "2021-10-09"
         },
@@ -60,7 +60,7 @@
             "title": "New AI Technology Enhances Cybersecurity",
             "category": "Technology",
             "description": "A cutting-edge AI technology is developed to strengthen cybersecurity measures and protect against cyber threats.",
-            "image": "/assets/jeremy-bishop-vGjGvtSfys4-unsplash.jpg",
+            "image": "assets/jeremy-bishop-vGjGvtSfys4-unsplash.jpg",
             "author": "Sarah Williams",
             "date": "2021-10-08"
         },
@@ -68,7 +68,7 @@
             "title": "New Government Health Initiative Launched",
             "category": "News",
             "description": "The government introduces a new health initiative aimed at improving public health and reducing healthcare costs.",
-            "image": "/assets/jeremy-bishop-vGjGvtSfys4-unsplash.jpg",
+            "image": "assets/jeremy-bishop-vGjGvtSfys4-unsplash.jpg",
             "author": "John Doe",
             "date": "2021-10-07"
         },
@@ -76,7 +76,7 @@
             "title": "Political Parties Prepare for Election",
             "category": "Politics",
             "description": "Political parties gear up for the upcoming election, outlining their agendas and strategies to win the public's support.",
-            "image": "/assets/jannis-brandt-mmsQUgMLqUo-unsplash.jpg",
+            "image": "assets/jannis-brandt-mmsQUgMLqUo-unsplash.jpg",
             "author": "Jane Smith",
             "date": "2021-10-06"
         },
@@ -84,7 +84,7 @@
             "title": "Global Economy Faces Uncertain Times",
             "category": "Economy",
             "description": "The global economy grapples with uncertainty due to geopolitical tensions and fluctuating trade relations between major nations.",
-            "image": "/assets/ian-schneider-PAykYb-8Er8-unsplash.jpg",
+            "image": "assets/ian-schneider-PAykYb-8Er8-unsplash.jpg",
             "author": "James Johnson",
             "date": "2021-10-05"
         },
@@ -92,7 +92,7 @@
             "title": "New Smartphone Model Released",
             "category": "Technology",
             "description": "A new smartphone model is released, boasting advanced features and improved performance.",
-            "image": "/assets/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg",
+            "image": "assets/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg",
             "author": "Sarah Williams",
             "date": "2021-10-04"
         },
@@ -100,7 +100,7 @@
             "title": "New Government Health Initiative Launched",
             "category": "News",
             "description": "The government introduces a new health initiative aimed at improving public health and reducing healthcare costs.",
-            "image": "/assets/ben-white-gEKMstKfZ6w-unsplash.jpg",
+            "image": "assets/ben-white-gEKMstKfZ6w-unsplash.jpg",
             "author": "John Doe",
             "date": "2021-10-03"
         }
